@@ -1,0 +1,26 @@
+.tableFixHead {
+    overflow-y: auto;
+    height: 350px;
+  }
+  .tableFixHead thead th {
+    position: sticky;
+    top: 0;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    height: 350px;
+  }
+  th,
+  td {
+    padding: 8px 16px;
+    border: 1px solid rgb(170, 94, 94);
+  }
+  th {
+    background: rgb(153, 151, 151);
+  }
+
+  #mapCanvas{
+    width: 100%;
+    height: 100px;
+  }

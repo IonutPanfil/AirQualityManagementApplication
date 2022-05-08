@@ -1,0 +1,33 @@
+body {
+	background-color: #eee;
+	font-family: Noto Sans;
+	font-size: 12px;
+  }
+  
+  .navbar {
+	border-radius: 0;
+	background-color: #fff;
+  }
+  
+  .container {
+	margin: 0;
+  }
+  .container1 {
+	margin: 0;
+  }
+
+  h3{
+	  background-color: darkgreen;
+  }
+  
+  #myChart {
+	min-height: 450px;
+	width: 100%;
+  }
+  
+  #myChart1 {
+	float: left;
+	width:80%;
+	padding-left: 20px;
+	color:darkgreen;
+  }
